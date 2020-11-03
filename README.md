@@ -1,3 +1,3 @@
 # Kriptografi-Caesar-Chiper
 Kriptografi Caesar Chiper
-Menggunakan PHP
+Menggunakan PHP dengan enkripsi dan deskripsi
